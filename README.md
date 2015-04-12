@@ -1,3 +1,4 @@
+# Oculus-Rift-DK1-camera-mounts
 A selection of .stl files for 3D printing mounts for cameras (or other gadgets) to an Oculus Rift DK1. The file base.stl comes from the guys at [USC Institute for Creative Technologies](http://projects.ict.usc.edu/mxr/diy/oculus-sensor-mount/).
 
 Note that [horizontal/landscape orientation of cameras is 'wrong'](http://cjdavies.org/?p=1963) due to the orientation/aspect ratio of each half of the DK1's screen, but those files might be a basis for attachment of some other gadget.
